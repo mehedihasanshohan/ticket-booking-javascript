@@ -15,7 +15,7 @@
                   // Determine the seat price based on seat quality
               if (seatQuality === 'economy') {
                    perSeatPrice = 600;
-                 } else if (seatQuality === 'business') {
+                 } else if (seatQuality === 'buseness') {
                   perSeatPrice = 700;
                  } else {
                   perSeatPrice = 500;
